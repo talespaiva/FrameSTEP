@@ -1,0 +1,27 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[dev-packages]
+
+[packages]
+yapf = "*"
+numpy = "*"
+pandas = "*"
+folium = "*"
+geojson = "*"
+gpxpy = "*"
+jupyterlab = "*"
+ipympl = "*"
+matplotlib = "*"
+overpy = "*"
+rdflib = "*"
+seaborn = "*"
+shapely = "*"
+srtm-py = "*"
+shortuuid = "*"
+sparqlwrapper = "*"
+
+[requires]
+python_version = "3.6"

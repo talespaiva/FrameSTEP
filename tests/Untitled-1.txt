@@ -1,0 +1,50 @@
+1417957715: Bus, Park, LanduseResidential
+1193388319: Bus, Park, LanduseResidential
+1554232397: Bus, Park, LanduseResidential
+1250106491: Bus, Park, LanduseResidential
+1666613897: Bus, Park, LanduseResidential
+1355231355: Bus, Park, LanduseResidential
+1533217229: Bus, Park, LanduseResidential
+1233430301: Bus, Park, LanduseResidential
+906670699 : Park, LanduseResidential, Footway
+934824955 : Park, LanduseResidential, Footway
+879595923 : Bus, Park, Footway
+855950227 : Bus, Park, LanduseResidential, Footway
+1247087437: Bus, Park, LanduseResidential, Footway
+841862395 : Park, Fence, Footway
+1145256443: Park
+967570519 : NaturalWater, RouteBicycle, Park, Path, Footway, NaturalWood
+915196773 : NaturalWater, RouteBicycle, Bus, Park, Path, LanduseResidential, NaturalWood
+1079694145: NaturalWater, RouteBicycle, Bus, Park, Path, LanduseResidential, NaturalWood
+1677484067: NaturalWater, RouteBicycle, Park, LanduseResidential, NaturalWood
+955437075 :  Bus, Park, LanduseResidential, RouteBicycle, Path, NaturalWood
+1681960589: RouteBicycle, Park, Path, Footway, LanduseResidential, NaturalWood
+1063854797: RouteBicycle, Park, Footway, LanduseResidential, NaturalWood
+1304438635: Bus, RouteBicycle, Path, LanduseResidential, NaturalWood
+
+
+
+
+1: Bus, Park, LanduseResidential
+2: Bus, Park, LanduseResidential
+3: Bus, Park, LanduseResidential
+4: Bus, Park, LanduseResidential
+5: Bus, Park, LanduseResidential
+6: Bus, Park, LanduseResidential
+7: Bus, Park, LanduseResidential
+8: Bus, Park, LanduseResidential
+9: Park, LanduseResidential, Footway
+10: Park, LanduseResidential, Footway
+11: Bus, Park, Footway
+12: Bus, Park, LanduseResidential, Footway
+13: Bus, Park, LanduseResidential, Footway
+14: Park, Fence, Footway
+15: Park
+16: NaturalWater, RouteBicycle, Park, Path, Footway, NaturalWood
+17: NaturalWater, RouteBicycle, Bus, Park, Path, LanduseResidential, NaturalWood
+18: NaturalWater, RouteBicycle, Bus, Park, Path, LanduseResidential, NaturalWood
+19: NaturalWater, RouteBicycle, Park, LanduseResidential, NaturalWood
+20:  Bus, Park, LanduseResidential, RouteBicycle, Path, NaturalWood
+21: RouteBicycle, Park, Path, Footway, LanduseResidential, NaturalWood
+22: RouteBicycle, Park, Footway, LanduseResidential, NaturalWood
+23: Bus, RouteBicycle, Path, LanduseResidential, NaturalWood

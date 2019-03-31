@@ -1,0 +1,594 @@
+########################################
+../notebooks/gpx/49996348-1533217229.gpx
+Overpass response length: 155
+22 valid tags: ['k:sport/v:multi', 'k:leisure/v:track', 'k:landuse/v:construction', 'k:leisure/v:sports_centre', 'k:leisure/v:playground', 'k:leisure/v:swimming_pool', 'k:highway/v:footway', 'k:landuse/v:grass', 'k:landuse/v:forest', 'k:leisure/v:miniature_golf', 'k:sport/v:soccer', 'k:leisure/v:park', 'k:natural/v:wood', 'k:landuse/v:residential', 'k:highway/v:pedestrian', 'k:sport/v:bmx', 'k:landuse/v:allotments', 'k:leisure/v:dog_park', 'k:leisure/v:stadium', 'k:natural/v:water', 'k:leisure/v:pitch', 'k:landuse/v:basin']
+corresponding to the LGD concepts: 
+['Multi', 'Track', 'LanduseConstruction', 'SportsCentre', 'Playground', 'SwimmingPool', 'Footway', 'Grass', 'LanduseForest', 'MiniatureGolf', 'Soccer', 'Park', 'NaturalWood', 'LanduseResidential', 'Pedestrian', 'Bmx', 'Allotments', 'DogPark', 'Stadium', 'NaturalWater', 'Pitch', 'Basin']
+
+28340980
+relations: []
+Parc des Berges de l'Isère {'leisure': 'park', 'alt_name': 'Parc Valmy', 'name': "Parc des Berges de l'Isère", 'old_name': 'Échangeur des Sablons'}
+length ratio: 20.50%
+duration ratio: 18.84%
+
+301628088
+relations: []
+Mutualité Préfecture {'quarter': 'suburb', 'name': 'Mutualité Préfecture', 'landuse': 'residential'}
+length ratio: 34.07%
+duration ratio: 37.32%
+
+381453125
+relations: []
+Exposition Bajatière {'quarter': 'suburb', 'source': 'https://fr.wikipedia.org/wiki/Exposition-Bajati%C3%A8re', 'name': 'Exposition Bajatière', 'landuse': 'residential'}
+length ratio: 60.42%
+duration ratio: 59.24%
+
+382417716
+relations: []
+Châtelet Abbaye Jouhaux {'quarter': 'suburb', 'name': 'Châtelet Abbaye Jouhaux', 'landuse': 'residential'}
+length ratio: 21.67%
+duration ratio: 22.71%
+
+########################################
+../notebooks/gpx/49996348-841862395.gpx
+Overpass response length: 29
+7 valid tags: ['k:leisure/v:sports_centre', 'k:landuse/v:grass', 'k:landuse/v:forest', 'k:leisure/v:miniature_golf', 'k:sport/v:soccer', 'k:leisure/v:park', 'k:leisure/v:stadium']
+corresponding to the LGD concepts: 
+['SportsCentre', 'Grass', 'LanduseForest', 'MiniatureGolf', 'Soccer', 'Park', 'Stadium']
+
+4014810
+relations: []
+Parc Paul Mistral {'leisure': 'park', 'name': 'Parc Paul Mistral'}
+length ratio: 96.57%
+duration ratio: 95.90%
+
+########################################
+../notebooks/gpx/49996348-1666613897.gpx
+Overpass response length: 137
+21 valid tags: ['k:sport/v:multi', 'k:leisure/v:track', 'k:landuse/v:construction', 'k:leisure/v:sports_centre', 'k:leisure/v:playground', 'k:leisure/v:swimming_pool', 'k:landuse/v:grass', 'k:landuse/v:forest', 'k:leisure/v:miniature_golf', 'k:sport/v:soccer', 'k:leisure/v:park', 'k:natural/v:wood', 'k:landuse/v:residential', 'k:highway/v:pedestrian', 'k:sport/v:bmx', 'k:landuse/v:allotments', 'k:leisure/v:dog_park', 'k:leisure/v:stadium', 'k:natural/v:water', 'k:leisure/v:pitch', 'k:landuse/v:basin']
+corresponding to the LGD concepts: 
+['Multi', 'Track', 'LanduseConstruction', 'SportsCentre', 'Playground', 'SwimmingPool', 'Grass', 'LanduseForest', 'MiniatureGolf', 'Soccer', 'Park', 'NaturalWood', 'LanduseResidential', 'Pedestrian', 'Bmx', 'Allotments', 'DogPark', 'Stadium', 'NaturalWater', 'Pitch', 'Basin']
+
+28340980
+relations: []
+Parc des Berges de l'Isère {'leisure': 'park', 'alt_name': 'Parc Valmy', 'name': "Parc des Berges de l'Isère", 'old_name': 'Échangeur des Sablons'}
+length ratio: 18.54%
+duration ratio: 21.76%
+
+301628088
+relations: []
+Mutualité Préfecture {'quarter': 'suburb', 'name': 'Mutualité Préfecture', 'landuse': 'residential'}
+length ratio: 37.11%
+duration ratio: 37.53%
+
+381453125
+relations: []
+Exposition Bajatière {'quarter': 'suburb', 'source': 'https://fr.wikipedia.org/wiki/Exposition-Bajati%C3%A8re', 'name': 'Exposition Bajatière', 'landuse': 'residential'}
+length ratio: 61.55%
+duration ratio: 60.01%
+
+########################################
+../notebooks/gpx/49996348-1355231355.gpx
+Overpass response length: 143
+21 valid tags: ['k:sport/v:multi', 'k:leisure/v:track', 'k:landuse/v:construction', 'k:leisure/v:sports_centre', 'k:leisure/v:playground', 'k:leisure/v:swimming_pool', 'k:landuse/v:grass', 'k:landuse/v:forest', 'k:leisure/v:miniature_golf', 'k:sport/v:soccer', 'k:leisure/v:park', 'k:natural/v:wood', 'k:landuse/v:residential', 'k:highway/v:pedestrian', 'k:sport/v:bmx', 'k:landuse/v:allotments', 'k:leisure/v:dog_park', 'k:leisure/v:stadium', 'k:natural/v:water', 'k:leisure/v:pitch', 'k:landuse/v:basin']
+corresponding to the LGD concepts: 
+['Multi', 'Track', 'LanduseConstruction', 'SportsCentre', 'Playground', 'SwimmingPool', 'Grass', 'LanduseForest', 'MiniatureGolf', 'Soccer', 'Park', 'NaturalWood', 'LanduseResidential', 'Pedestrian', 'Bmx', 'Allotments', 'DogPark', 'Stadium', 'NaturalWater', 'Pitch', 'Basin']
+
+28340980
+relations: []
+Parc des Berges de l'Isère {'leisure': 'park', 'alt_name': 'Parc Valmy', 'name': "Parc des Berges de l'Isère", 'old_name': 'Échangeur des Sablons'}
+length ratio: 21.10%
+duration ratio: 21.88%
+
+301628088
+relations: []
+Mutualité Préfecture {'quarter': 'suburb', 'name': 'Mutualité Préfecture', 'landuse': 'residential'}
+length ratio: 35.87%
+duration ratio: 36.40%
+
+381453125
+relations: []
+Exposition Bajatière {'quarter': 'suburb', 'source': 'https://fr.wikipedia.org/wiki/Exposition-Bajati%C3%A8re', 'name': 'Exposition Bajatière', 'landuse': 'residential'}
+length ratio: 59.15%
+duration ratio: 58.50%
+
+########################################
+../notebooks/gpx/49996348-1681960589.gpx
+Overpass response length: 64
+13 valid tags: ['k:leisure/v:track', 'k:landuse/v:construction', 'k:leisure/v:sports_centre', 'k:leisure/v:playground', 'k:leisure/v:swimming_pool', 'k:landuse/v:grass', 'k:landuse/v:forest', 'k:sport/v:soccer', 'k:leisure/v:park', 'k:natural/v:wood', 'k:landuse/v:residential', 'k:leisure/v:stadium', 'k:leisure/v:pitch']
+corresponding to the LGD concepts: 
+['Track', 'LanduseConstruction', 'SportsCentre', 'Playground', 'SwimmingPool', 'Grass', 'LanduseForest', 'Soccer', 'Park', 'NaturalWood', 'LanduseResidential', 'Stadium', 'Pitch']
+
+28340980
+relations: []
+Parc des Berges de l'Isère {'leisure': 'park', 'alt_name': 'Parc Valmy', 'name': "Parc des Berges de l'Isère", 'old_name': 'Échangeur des Sablons'}
+length ratio: 18.85%
+duration ratio: 20.88%
+
+381453125
+relations: []
+Exposition Bajatière {'quarter': 'suburb', 'source': 'https://fr.wikipedia.org/wiki/Exposition-Bajati%C3%A8re', 'name': 'Exposition Bajatière', 'landuse': 'residential'}
+length ratio: 35.41%
+duration ratio: 32.28%
+
+440478753
+relations: []
+None {'natural': 'wood'}
+length ratio: 57.11%
+duration ratio: 57.64%
+
+########################################
+../notebooks/gpx/49996348-1063854797.gpx
+Overpass response length: 8
+5 valid tags: ['k:leisure/v:sports_centre', 'k:landuse/v:grass', 'k:leisure/v:park', 'k:natural/v:wood', 'k:landuse/v:residential']
+corresponding to the LGD concepts: 
+['SportsCentre', 'Grass', 'Park', 'NaturalWood', 'LanduseResidential']
+
+4014810
+relations: []
+Parc Paul Mistral {'leisure': 'park', 'name': 'Parc Paul Mistral'}
+length ratio: 26.67%
+duration ratio: 26.41%
+
+28340980
+relations: []
+Parc des Berges de l'Isère {'leisure': 'park', 'alt_name': 'Parc Valmy', 'name': "Parc des Berges de l'Isère", 'old_name': 'Échangeur des Sablons'}
+length ratio: 21.96%
+duration ratio: 21.68%
+
+381453125
+relations: []
+Exposition Bajatière {'quarter': 'suburb', 'source': 'https://fr.wikipedia.org/wiki/Exposition-Bajati%C3%A8re', 'name': 'Exposition Bajatière', 'landuse': 'residential'}
+length ratio: 31.33%
+duration ratio: 31.19%
+
+382417716
+relations: []
+Châtelet Abbaye Jouhaux {'quarter': 'suburb', 'name': 'Châtelet Abbaye Jouhaux', 'landuse': 'residential'}
+length ratio: 26.12%
+duration ratio: 27.50%
+
+440478753
+relations: []
+None {'natural': 'wood'}
+length ratio: 56.00%
+duration ratio: 55.72%
+
+########################################
+../notebooks/gpx/49996348-967570519.gpx
+Overpass response length: 11
+7 valid tags: ['k:leisure/v:sports_centre', 'k:landuse/v:grass', 'k:landuse/v:forest', 'k:leisure/v:park', 'k:natural/v:wood', 'k:landuse/v:residential', 'k:natural/v:water']
+corresponding to the LGD concepts: 
+['SportsCentre', 'Grass', 'LanduseForest', 'Park', 'NaturalWood', 'LanduseResidential', 'NaturalWater']
+
+278498
+relations: None
+L'Isère {'note': 'taggé en mode « new tagging » cf wiki', 'boat': 'no', 'comment': 'Provenance du cadastre, les bords semblent correspondre au seuil maximal innondable', 'water': 'river', 'type': 'multipolygon', 'natural': 'water', 'name': "L'Isère", 'source': 'cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2009'}
+length ratio: 45.98%
+duration ratio: 45.79%
+
+4014810
+relations: []
+Parc Paul Mistral {'leisure': 'park', 'name': 'Parc Paul Mistral'}
+length ratio: 34.67%
+duration ratio: 34.78%
+
+28340980
+relations: []
+Parc des Berges de l'Isère {'leisure': 'park', 'alt_name': 'Parc Valmy', 'name': "Parc des Berges de l'Isère", 'old_name': 'Échangeur des Sablons'}
+length ratio: 20.87%
+duration ratio: 21.10%
+
+440478753
+relations: []
+None {'natural': 'wood'}
+length ratio: 53.22%
+duration ratio: 52.60%
+
+########################################
+../notebooks/gpx/49996348-1417957715.gpx
+Overpass response length: 139
+20 valid tags: ['k:sport/v:multi', 'k:leisure/v:track', 'k:landuse/v:construction', 'k:leisure/v:sports_centre', 'k:leisure/v:playground', 'k:leisure/v:swimming_pool', 'k:landuse/v:grass', 'k:landuse/v:forest', 'k:leisure/v:miniature_golf', 'k:sport/v:soccer', 'k:leisure/v:park', 'k:natural/v:wood', 'k:landuse/v:residential', 'k:highway/v:pedestrian', 'k:sport/v:bmx', 'k:landuse/v:allotments', 'k:leisure/v:stadium', 'k:natural/v:water', 'k:leisure/v:pitch', 'k:landuse/v:basin']
+corresponding to the LGD concepts: 
+['Multi', 'Track', 'LanduseConstruction', 'SportsCentre', 'Playground', 'SwimmingPool', 'Grass', 'LanduseForest', 'MiniatureGolf', 'Soccer', 'Park', 'NaturalWood', 'LanduseResidential', 'Pedestrian', 'Bmx', 'Allotments', 'Stadium', 'NaturalWater', 'Pitch', 'Basin']
+
+4014810
+relations: []
+Parc Paul Mistral {'leisure': 'park', 'name': 'Parc Paul Mistral'}
+length ratio: 23.97%
+duration ratio: 25.93%
+
+28340980
+relations: []
+Parc des Berges de l'Isère {'leisure': 'park', 'alt_name': 'Parc Valmy', 'name': "Parc des Berges de l'Isère", 'old_name': 'Échangeur des Sablons'}
+length ratio: 18.32%
+duration ratio: 21.60%
+
+301628088
+relations: []
+Mutualité Préfecture {'quarter': 'suburb', 'name': 'Mutualité Préfecture', 'landuse': 'residential'}
+length ratio: 33.37%
+duration ratio: 30.73%
+
+381453125
+relations: []
+Exposition Bajatière {'quarter': 'suburb', 'source': 'https://fr.wikipedia.org/wiki/Exposition-Bajati%C3%A8re', 'name': 'Exposition Bajatière', 'landuse': 'residential'}
+length ratio: 63.40%
+duration ratio: 67.87%
+
+########################################
+../notebooks/gpx/49996348-1193388319.gpx
+Overpass response length: 129
+20 valid tags: ['k:sport/v:multi', 'k:leisure/v:track', 'k:landuse/v:construction', 'k:leisure/v:sports_centre', 'k:leisure/v:playground', 'k:leisure/v:swimming_pool', 'k:landuse/v:grass', 'k:landuse/v:forest', 'k:leisure/v:miniature_golf', 'k:sport/v:soccer', 'k:leisure/v:park', 'k:natural/v:wood', 'k:landuse/v:residential', 'k:highway/v:pedestrian', 'k:sport/v:bmx', 'k:landuse/v:allotments', 'k:leisure/v:stadium', 'k:natural/v:water', 'k:leisure/v:pitch', 'k:landuse/v:basin']
+corresponding to the LGD concepts: 
+['Multi', 'Track', 'LanduseConstruction', 'SportsCentre', 'Playground', 'SwimmingPool', 'Grass', 'LanduseForest', 'MiniatureGolf', 'Soccer', 'Park', 'NaturalWood', 'LanduseResidential', 'Pedestrian', 'Bmx', 'Allotments', 'Stadium', 'NaturalWater', 'Pitch', 'Basin']
+
+28340980
+relations: []
+Parc des Berges de l'Isère {'leisure': 'park', 'alt_name': 'Parc Valmy', 'name': "Parc des Berges de l'Isère", 'old_name': 'Échangeur des Sablons'}
+length ratio: 31.75%
+duration ratio: 30.70%
+
+301628088
+relations: []
+Mutualité Préfecture {'quarter': 'suburb', 'name': 'Mutualité Préfecture', 'landuse': 'residential'}
+length ratio: 24.87%
+duration ratio: 26.16%
+
+381453125
+relations: []
+Exposition Bajatière {'quarter': 'suburb', 'source': 'https://fr.wikipedia.org/wiki/Exposition-Bajati%C3%A8re', 'name': 'Exposition Bajatière', 'landuse': 'residential'}
+length ratio: 52.24%
+duration ratio: 49.89%
+
+382417716
+relations: []
+Châtelet Abbaye Jouhaux {'quarter': 'suburb', 'name': 'Châtelet Abbaye Jouhaux', 'landuse': 'residential'}
+length ratio: 33.38%
+duration ratio: 34.60%
+
+########################################
+../notebooks/gpx/49996348-1554232397.gpx
+Overpass response length: 138
+21 valid tags: ['k:sport/v:multi', 'k:leisure/v:track', 'k:landuse/v:construction', 'k:leisure/v:sports_centre', 'k:leisure/v:playground', 'k:leisure/v:swimming_pool', 'k:landuse/v:grass', 'k:landuse/v:forest', 'k:leisure/v:miniature_golf', 'k:sport/v:soccer', 'k:leisure/v:park', 'k:natural/v:wood', 'k:landuse/v:residential', 'k:highway/v:pedestrian', 'k:sport/v:bmx', 'k:landuse/v:allotments', 'k:leisure/v:dog_park', 'k:leisure/v:stadium', 'k:natural/v:water', 'k:leisure/v:pitch', 'k:landuse/v:basin']
+corresponding to the LGD concepts: 
+['Multi', 'Track', 'LanduseConstruction', 'SportsCentre', 'Playground', 'SwimmingPool', 'Grass', 'LanduseForest', 'MiniatureGolf', 'Soccer', 'Park', 'NaturalWood', 'LanduseResidential', 'Pedestrian', 'Bmx', 'Allotments', 'DogPark', 'Stadium', 'NaturalWater', 'Pitch', 'Basin']
+
+4014810
+relations: []
+Parc Paul Mistral {'leisure': 'park', 'name': 'Parc Paul Mistral'}
+length ratio: 21.02%
+duration ratio: 20.64%
+
+301628088
+relations: []
+Mutualité Préfecture {'quarter': 'suburb', 'name': 'Mutualité Préfecture', 'landuse': 'residential'}
+length ratio: 38.50%
+duration ratio: 38.49%
+
+381453125
+relations: []
+Exposition Bajatière {'quarter': 'suburb', 'source': 'https://fr.wikipedia.org/wiki/Exposition-Bajati%C3%A8re', 'name': 'Exposition Bajatière', 'landuse': 'residential'}
+length ratio: 60.41%
+duration ratio: 60.28%
+
+########################################
+../notebooks/gpx/49996348-1250106491.gpx
+Overpass response length: 138
+20 valid tags: ['k:sport/v:multi', 'k:leisure/v:track', 'k:landuse/v:construction', 'k:leisure/v:sports_centre', 'k:leisure/v:playground', 'k:leisure/v:swimming_pool', 'k:landuse/v:grass', 'k:landuse/v:forest', 'k:leisure/v:miniature_golf', 'k:sport/v:soccer', 'k:leisure/v:park', 'k:natural/v:wood', 'k:landuse/v:residential', 'k:highway/v:pedestrian', 'k:sport/v:bmx', 'k:landuse/v:allotments', 'k:leisure/v:stadium', 'k:natural/v:water', 'k:leisure/v:pitch', 'k:landuse/v:basin']
+corresponding to the LGD concepts: 
+['Multi', 'Track', 'LanduseConstruction', 'SportsCentre', 'Playground', 'SwimmingPool', 'Grass', 'LanduseForest', 'MiniatureGolf', 'Soccer', 'Park', 'NaturalWood', 'LanduseResidential', 'Pedestrian', 'Bmx', 'Allotments', 'Stadium', 'NaturalWater', 'Pitch', 'Basin']
+
+28340980
+relations: []
+Parc des Berges de l'Isère {'leisure': 'park', 'alt_name': 'Parc Valmy', 'name': "Parc des Berges de l'Isère", 'old_name': 'Échangeur des Sablons'}
+length ratio: 20.67%
+duration ratio: 20.71%
+
+301628088
+relations: []
+Mutualité Préfecture {'quarter': 'suburb', 'name': 'Mutualité Préfecture', 'landuse': 'residential'}
+length ratio: 32.70%
+duration ratio: 32.18%
+
+381453125
+relations: []
+Exposition Bajatière {'quarter': 'suburb', 'source': 'https://fr.wikipedia.org/wiki/Exposition-Bajati%C3%A8re', 'name': 'Exposition Bajatière', 'landuse': 'residential'}
+length ratio: 58.18%
+duration ratio: 58.04%
+
+382417716
+relations: []
+Châtelet Abbaye Jouhaux {'quarter': 'suburb', 'name': 'Châtelet Abbaye Jouhaux', 'landuse': 'residential'}
+length ratio: 23.86%
+duration ratio: 24.51%
+
+########################################
+../notebooks/gpx/49996348-855950227.gpx
+Overpass response length: 17
+7 valid tags: ['k:leisure/v:sports_centre', 'k:landuse/v:grass', 'k:landuse/v:forest', 'k:sport/v:soccer', 'k:leisure/v:park', 'k:landuse/v:residential', 'k:leisure/v:stadium']
+corresponding to the LGD concepts: 
+['SportsCentre', 'Grass', 'LanduseForest', 'Soccer', 'Park', 'LanduseResidential', 'Stadium']
+
+4014810
+relations: []
+Parc Paul Mistral {'leisure': 'park', 'name': 'Parc Paul Mistral'}
+length ratio: 94.24%
+duration ratio: 94.06%
+
+381453125
+relations: []
+Exposition Bajatière {'quarter': 'suburb', 'source': 'https://fr.wikipedia.org/wiki/Exposition-Bajati%C3%A8re', 'name': 'Exposition Bajatière', 'landuse': 'residential'}
+length ratio: 100.00%
+duration ratio: 100.00%
+
+########################################
+../notebooks/gpx/49996348-934824955.gpx
+Overpass response length: 17
+7 valid tags: ['k:leisure/v:sports_centre', 'k:landuse/v:grass', 'k:landuse/v:forest', 'k:sport/v:soccer', 'k:leisure/v:park', 'k:landuse/v:residential', 'k:leisure/v:stadium']
+corresponding to the LGD concepts: 
+['SportsCentre', 'Grass', 'LanduseForest', 'Soccer', 'Park', 'LanduseResidential', 'Stadium']
+
+4014810
+relations: []
+Parc Paul Mistral {'leisure': 'park', 'name': 'Parc Paul Mistral'}
+length ratio: 94.04%
+duration ratio: 93.54%
+
+381453125
+relations: []
+Exposition Bajatière {'quarter': 'suburb', 'source': 'https://fr.wikipedia.org/wiki/Exposition-Bajati%C3%A8re', 'name': 'Exposition Bajatière', 'landuse': 'residential'}
+length ratio: 100.00%
+duration ratio: 100.00%
+
+########################################
+../notebooks/gpx/49996348-915196773.gpx
+Overpass response length: 10
+6 valid tags: ['k:landuse/v:grass', 'k:landuse/v:forest', 'k:leisure/v:park', 'k:natural/v:wood', 'k:landuse/v:residential', 'k:natural/v:water']
+corresponding to the LGD concepts: 
+['Grass', 'LanduseForest', 'Park', 'NaturalWood', 'LanduseResidential', 'NaturalWater']
+
+278498
+relations: None
+L'Isère {'note': 'taggé en mode « new tagging » cf wiki', 'boat': 'no', 'comment': 'Provenance du cadastre, les bords semblent correspondre au seuil maximal innondable', 'water': 'river', 'type': 'multipolygon', 'natural': 'water', 'name': "L'Isère", 'source': 'cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2009'}
+length ratio: 25.34%
+duration ratio: 29.26%
+
+4014810
+relations: []
+Parc Paul Mistral {'leisure': 'park', 'name': 'Parc Paul Mistral'}
+length ratio: 33.19%
+duration ratio: 31.30%
+
+381453125
+relations: []
+Exposition Bajatière {'quarter': 'suburb', 'source': 'https://fr.wikipedia.org/wiki/Exposition-Bajati%C3%A8re', 'name': 'Exposition Bajatière', 'landuse': 'residential'}
+length ratio: 38.22%
+duration ratio: 35.90%
+
+440478753
+relations: []
+None {'natural': 'wood'}
+length ratio: 34.53%
+duration ratio: 36.95%
+
+########################################
+../notebooks/gpx/49996348-879595923.gpx
+Overpass response length: 9
+6 valid tags: ['k:leisure/v:sports_centre', 'k:landuse/v:grass', 'k:landuse/v:forest', 'k:sport/v:soccer', 'k:leisure/v:park', 'k:leisure/v:stadium']
+corresponding to the LGD concepts: 
+['SportsCentre', 'Grass', 'LanduseForest', 'Soccer', 'Park', 'Stadium']
+
+4014810
+relations: []
+Parc Paul Mistral {'leisure': 'park', 'name': 'Parc Paul Mistral'}
+length ratio: 95.60%
+duration ratio: 95.03%
+
+########################################
+../notebooks/gpx/49996348-1247087437.gpx
+Overpass response length: 113
+16 valid tags: ['k:sport/v:multi', 'k:leisure/v:track', 'k:landuse/v:construction', 'k:leisure/v:sports_centre', 'k:leisure/v:playground', 'k:leisure/v:swimming_pool', 'k:landuse/v:grass', 'k:landuse/v:forest', 'k:leisure/v:miniature_golf', 'k:sport/v:soccer', 'k:leisure/v:park', 'k:landuse/v:residential', 'k:leisure/v:dog_park', 'k:leisure/v:stadium', 'k:leisure/v:pitch', 'k:landuse/v:basin']
+corresponding to the LGD concepts: 
+['Multi', 'Track', 'LanduseConstruction', 'SportsCentre', 'Playground', 'SwimmingPool', 'Grass', 'LanduseForest', 'MiniatureGolf', 'Soccer', 'Park', 'LanduseResidential', 'DogPark', 'Stadium', 'Pitch', 'Basin']
+
+4014810
+relations: []
+Parc Paul Mistral {'leisure': 'park', 'name': 'Parc Paul Mistral'}
+length ratio: 63.63%
+duration ratio: 65.48%
+
+381453125
+relations: []
+Exposition Bajatière {'quarter': 'suburb', 'source': 'https://fr.wikipedia.org/wiki/Exposition-Bajati%C3%A8re', 'name': 'Exposition Bajatière', 'landuse': 'residential'}
+length ratio: 100.00%
+duration ratio: 100.00%
+
+########################################
+../notebooks/gpx/49996348-1079694145.gpx
+Overpass response length: 9
+7 valid tags: ['k:leisure/v:sports_centre', 'k:landuse/v:grass', 'k:landuse/v:forest', 'k:leisure/v:park', 'k:natural/v:wood', 'k:landuse/v:residential', 'k:natural/v:water']
+corresponding to the LGD concepts: 
+['SportsCentre', 'Grass', 'LanduseForest', 'Park', 'NaturalWood', 'LanduseResidential', 'NaturalWater']
+
+278498
+relations: None
+L'Isère {'note': 'taggé en mode « new tagging » cf wiki', 'boat': 'no', 'comment': 'Provenance du cadastre, les bords semblent correspondre au seuil maximal innondable', 'water': 'river', 'type': 'multipolygon', 'natural': 'water', 'name': "L'Isère", 'source': 'cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2009'}
+length ratio: 34.29%
+duration ratio: 34.83%
+
+4014810
+relations: []
+Parc Paul Mistral {'leisure': 'park', 'name': 'Parc Paul Mistral'}
+length ratio: 30.28%
+duration ratio: 29.11%
+
+28340980
+relations: []
+Parc des Berges de l'Isère {'leisure': 'park', 'alt_name': 'Parc Valmy', 'name': "Parc des Berges de l'Isère", 'old_name': 'Échangeur des Sablons'}
+length ratio: 35.30%
+duration ratio: 33.40%
+
+382417716
+relations: []
+Châtelet Abbaye Jouhaux {'quarter': 'suburb', 'name': 'Châtelet Abbaye Jouhaux', 'landuse': 'residential'}
+length ratio: 32.66%
+duration ratio: 32.48%
+
+440478753
+relations: []
+None {'natural': 'wood'}
+length ratio: 42.48%
+duration ratio: 43.82%
+
+########################################
+../notebooks/gpx/49996348-1304438635.gpx
+Overpass response length: 40
+7 valid tags: ['k:landuse/v:construction', 'k:leisure/v:swimming_pool', 'k:landuse/v:grass', 'k:leisure/v:park', 'k:natural/v:wood', 'k:landuse/v:residential', 'k:leisure/v:dog_park']
+corresponding to the LGD concepts: 
+['LanduseConstruction', 'SwimmingPool', 'Grass', 'Park', 'NaturalWood', 'LanduseResidential', 'DogPark']
+
+381453125
+relations: []
+Exposition Bajatière {'quarter': 'suburb', 'source': 'https://fr.wikipedia.org/wiki/Exposition-Bajati%C3%A8re', 'name': 'Exposition Bajatière', 'landuse': 'residential'}
+length ratio: 42.47%
+duration ratio: 42.58%
+
+382417716
+relations: []
+Châtelet Abbaye Jouhaux {'quarter': 'suburb', 'name': 'Châtelet Abbaye Jouhaux', 'landuse': 'residential'}
+length ratio: 40.65%
+duration ratio: 40.67%
+
+440478753
+relations: []
+None {'natural': 'wood'}
+length ratio: 44.45%
+duration ratio: 44.37%
+
+########################################
+../notebooks/gpx/49996348-1233430301.gpx
+Overpass response length: 141
+21 valid tags: ['k:sport/v:multi', 'k:leisure/v:track', 'k:landuse/v:construction', 'k:leisure/v:sports_centre', 'k:leisure/v:playground', 'k:leisure/v:swimming_pool', 'k:landuse/v:grass', 'k:landuse/v:forest', 'k:leisure/v:miniature_golf', 'k:sport/v:soccer', 'k:leisure/v:park', 'k:natural/v:wood', 'k:landuse/v:residential', 'k:highway/v:pedestrian', 'k:sport/v:bmx', 'k:landuse/v:allotments', 'k:leisure/v:dog_park', 'k:leisure/v:stadium', 'k:natural/v:water', 'k:leisure/v:pitch', 'k:landuse/v:basin']
+corresponding to the LGD concepts: 
+['Multi', 'Track', 'LanduseConstruction', 'SportsCentre', 'Playground', 'SwimmingPool', 'Grass', 'LanduseForest', 'MiniatureGolf', 'Soccer', 'Park', 'NaturalWood', 'LanduseResidential', 'Pedestrian', 'Bmx', 'Allotments', 'DogPark', 'Stadium', 'NaturalWater', 'Pitch', 'Basin']
+
+28340980
+relations: []
+Parc des Berges de l'Isère {'leisure': 'park', 'alt_name': 'Parc Valmy', 'name': "Parc des Berges de l'Isère", 'old_name': 'Échangeur des Sablons'}
+length ratio: 24.08%
+duration ratio: 24.29%
+
+301628088
+relations: []
+Mutualité Préfecture {'quarter': 'suburb', 'name': 'Mutualité Préfecture', 'landuse': 'residential'}
+length ratio: 40.59%
+duration ratio: 41.92%
+
+381453125
+relations: []
+Exposition Bajatière {'quarter': 'suburb', 'source': 'https://fr.wikipedia.org/wiki/Exposition-Bajati%C3%A8re', 'name': 'Exposition Bajatière', 'landuse': 'residential'}
+length ratio: 51.86%
+duration ratio: 50.85%
+
+########################################
+../notebooks/gpx/49996348-1677484067.gpx
+Overpass response length: 118
+18 valid tags: ['k:sport/v:multi', 'k:leisure/v:track', 'k:leisure/v:sports_centre', 'k:leisure/v:playground', 'k:landuse/v:grass', 'k:landuse/v:forest', 'k:leisure/v:miniature_golf', 'k:sport/v:soccer', 'k:leisure/v:park', 'k:natural/v:wood', 'k:landuse/v:residential', 'k:highway/v:pedestrian', 'k:sport/v:bmx', 'k:landuse/v:allotments', 'k:leisure/v:stadium', 'k:natural/v:water', 'k:leisure/v:pitch', 'k:landuse/v:basin']
+corresponding to the LGD concepts: 
+['Multi', 'Track', 'SportsCentre', 'Playground', 'Grass', 'LanduseForest', 'MiniatureGolf', 'Soccer', 'Park', 'NaturalWood', 'LanduseResidential', 'Pedestrian', 'Bmx', 'Allotments', 'Stadium', 'NaturalWater', 'Pitch', 'Basin']
+
+278498
+relations: None
+L'Isère {'note': 'taggé en mode « new tagging » cf wiki', 'boat': 'no', 'comment': 'Provenance du cadastre, les bords semblent correspondre au seuil maximal innondable', 'water': 'river', 'type': 'multipolygon', 'natural': 'water', 'name': "L'Isère", 'source': 'cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2009'}
+length ratio: 32.56%
+duration ratio: 31.73%
+
+28340980
+relations: []
+Parc des Berges de l'Isère {'leisure': 'park', 'alt_name': 'Parc Valmy', 'name': "Parc des Berges de l'Isère", 'old_name': 'Échangeur des Sablons'}
+length ratio: 23.91%
+duration ratio: 26.52%
+
+301628088
+relations: []
+Mutualité Préfecture {'quarter': 'suburb', 'name': 'Mutualité Préfecture', 'landuse': 'residential'}
+length ratio: 24.16%
+duration ratio: 28.69%
+
+381453125
+relations: []
+Exposition Bajatière {'quarter': 'suburb', 'source': 'https://fr.wikipedia.org/wiki/Exposition-Bajati%C3%A8re', 'name': 'Exposition Bajatière', 'landuse': 'residential'}
+length ratio: 37.44%
+duration ratio: 33.55%
+
+440478753
+relations: []
+None {'natural': 'wood'}
+length ratio: 34.92%
+duration ratio: 35.37%
+
+########################################
+../notebooks/gpx/49996348-906670699.gpx
+Overpass response length: 16
+7 valid tags: ['k:leisure/v:sports_centre', 'k:landuse/v:grass', 'k:landuse/v:forest', 'k:sport/v:soccer', 'k:leisure/v:park', 'k:landuse/v:residential', 'k:leisure/v:stadium']
+corresponding to the LGD concepts: 
+['SportsCentre', 'Grass', 'LanduseForest', 'Soccer', 'Park', 'LanduseResidential', 'Stadium']
+
+4014810
+relations: []
+Parc Paul Mistral {'leisure': 'park', 'name': 'Parc Paul Mistral'}
+length ratio: 97.25%
+duration ratio: 97.06%
+
+381453125
+relations: []
+Exposition Bajatière {'quarter': 'suburb', 'source': 'https://fr.wikipedia.org/wiki/Exposition-Bajati%C3%A8re', 'name': 'Exposition Bajatière', 'landuse': 'residential'}
+length ratio: 100.00%
+duration ratio: 100.00%
+
+########################################
+../notebooks/gpx/49996348-955437075.gpx
+Overpass response length: 12
+6 valid tags: ['k:leisure/v:sports_centre', 'k:landuse/v:grass', 'k:landuse/v:forest', 'k:leisure/v:park', 'k:natural/v:wood', 'k:landuse/v:residential']
+corresponding to the LGD concepts: 
+['SportsCentre', 'Grass', 'LanduseForest', 'Park', 'NaturalWood', 'LanduseResidential']
+
+4014810
+relations: []
+Parc Paul Mistral {'leisure': 'park', 'name': 'Parc Paul Mistral'}
+length ratio: 31.21%
+duration ratio: 31.51%
+
+381453125
+relations: []
+Exposition Bajatière {'quarter': 'suburb', 'source': 'https://fr.wikipedia.org/wiki/Exposition-Bajati%C3%A8re', 'name': 'Exposition Bajatière', 'landuse': 'residential'}
+length ratio: 34.64%
+duration ratio: 34.93%
+
+382417716
+relations: []
+Châtelet Abbaye Jouhaux {'quarter': 'suburb', 'name': 'Châtelet Abbaye Jouhaux', 'landuse': 'residential'}
+length ratio: 29.87%
+duration ratio: 29.69%
+
+440478753
+relations: []
+None {'natural': 'wood'}
+length ratio: 48.71%
+duration ratio: 49.05%
+
+########################################
+../notebooks/gpx/49996348-1145256443.gpx
+Overpass response length: 110
+15 valid tags: ['k:sport/v:multi', 'k:leisure/v:track', 'k:landuse/v:construction', 'k:leisure/v:sports_centre', 'k:leisure/v:playground', 'k:leisure/v:swimming_pool', 'k:landuse/v:grass', 'k:landuse/v:forest', 'k:leisure/v:miniature_golf', 'k:sport/v:soccer', 'k:leisure/v:park', 'k:leisure/v:dog_park', 'k:leisure/v:stadium', 'k:leisure/v:pitch', 'k:landuse/v:basin']
+corresponding to the LGD concepts: 
+['Multi', 'Track', 'LanduseConstruction', 'SportsCentre', 'Playground', 'SwimmingPool', 'Grass', 'LanduseForest', 'MiniatureGolf', 'Soccer', 'Park', 'DogPark', 'Stadium', 'Pitch', 'Basin']
+
+4014810
+relations: []
+Parc Paul Mistral {'leisure': 'park', 'name': 'Parc Paul Mistral'}
+length ratio: 48.80%
+duration ratio: 50.33%
+
+Process finished with exit code 0

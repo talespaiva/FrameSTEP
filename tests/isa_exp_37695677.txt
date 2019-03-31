@@ -1,0 +1,301 @@
+../notebooks/gpx/37695677-964610721.gpx
+Overpass response length: 58
+13 valid tags: ['k:landuse/v:residential', 'k:leisure/v:playground', 'k:barrier/v:wall', 'k:landuse/v:grass', 'k:leisure/v:track', 'k:leisure/v:sports_centre', 'k:leisure/v:dog_park', 'k:landuse/v:cemetery', 'k:landuse/v:forest', 'k:highway/v:footway', 'k:leisure/v:park', 'k:leisure/v:pitch', 'k:landuse/v:basin']
+corresponding to the LGD concepts: 
+['LanduseResidential', 'Playground', 'Wall', 'Grass', 'Track', 'SportsCentre', 'DogPark', 'LanduseCemetery', 'LanduseForest', 'Footway', 'Park', 'Pitch', 'Basin']
+
+3769433
+relations: None
+Île Verte {'landuse': 'residential', 'type': 'multipolygon', 'name': 'Île Verte', 'quarter': 'suburb'}
+length ratio: 20.60%
+duration ratio: 18.34%
+
+4014810
+relations: []
+Parc Paul Mistral {'leisure': 'park', 'name': 'Parc Paul Mistral'}
+length ratio: 42.00%
+duration ratio: 40.94%
+
+../notebooks/gpx/37695677-920546591.gpx
+Overpass response length: 37
+8 valid tags: ['k:landuse/v:residential', 'k:landuse/v:grass', 'k:natural/v:water', 'k:sport/v:soccer', 'k:landuse/v:forest', 'k:leisure/v:park', 'k:leisure/v:stadium', 'k:landuse/v:basin']
+corresponding to the LGD concepts: 
+['LanduseResidential', 'Grass', 'NaturalWater', 'Soccer', 'LanduseForest', 'Park', 'Stadium', 'Basin']
+
+278498
+relations: None
+L'Isère {'boat': 'no', 'type': 'multipolygon', 'name': "L'Isère", 'note': 'taggé en mode « new tagging » cf wiki', 'source': 'cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2009', 'comment': 'Provenance du cadastre, les bords semblent correspondre au seuil maximal innondable', 'natural': 'water', 'water': 'river'}
+length ratio: 46.25%
+duration ratio: 42.58%
+
+3769433
+relations: None
+Île Verte {'landuse': 'residential', 'type': 'multipolygon', 'name': 'Île Verte', 'quarter': 'suburb'}
+length ratio: 51.78%
+duration ratio: 50.58%
+
+../notebooks/gpx/37695677-929133905.gpx
+Overpass response length: 41
+9 valid tags: ['k:landuse/v:residential', 'k:natural/v:wood', 'k:landuse/v:grass', 'k:natural/v:water', 'k:sport/v:soccer', 'k:landuse/v:forest', 'k:leisure/v:park', 'k:leisure/v:stadium', 'k:landuse/v:basin']
+corresponding to the LGD concepts: 
+['LanduseResidential', 'NaturalWood', 'Grass', 'NaturalWater', 'Soccer', 'LanduseForest', 'Park', 'Stadium', 'Basin']
+
+278498
+relations: None
+L'Isère {'boat': 'no', 'type': 'multipolygon', 'name': "L'Isère", 'note': 'taggé en mode « new tagging » cf wiki', 'source': 'cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2009', 'comment': 'Provenance du cadastre, les bords semblent correspondre au seuil maximal innondable', 'natural': 'water', 'water': 'river'}
+length ratio: 38.71%
+duration ratio: 29.36%
+
+3769433
+relations: None
+Île Verte {'landuse': 'residential', 'type': 'multipolygon', 'name': 'Île Verte', 'quarter': 'suburb'}
+length ratio: 39.91%
+duration ratio: 32.76%
+
+4014810
+relations: []
+Parc Paul Mistral {'leisure': 'park', 'name': 'Parc Paul Mistral'}
+length ratio: 20.24%
+duration ratio: 22.62%
+
+../notebooks/gpx/37695677-949270031.gpx
+Overpass response length: 18
+12 valid tags: ['k:leisure/v:common', 'k:landuse/v:residential', 'k:natural/v:wood', 'k:sport/v:multi', 'k:landuse/v:grass', 'k:natural/v:water', 'k:sport/v:soccer', 'k:landuse/v:forest', 'k:leisure/v:park', 'k:leisure/v:pitch', 'k:leisure/v:stadium', 'k:landuse/v:basin']
+corresponding to the LGD concepts: 
+['Common', 'LanduseResidential', 'NaturalWood', 'Multi', 'Grass', 'NaturalWater', 'Soccer', 'LanduseForest', 'Park', 'Pitch', 'Stadium', 'Basin']
+
+278498
+relations: None
+L'Isère {'boat': 'no', 'type': 'multipolygon', 'name': "L'Isère", 'note': 'taggé en mode « new tagging » cf wiki', 'source': 'cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2009', 'comment': 'Provenance du cadastre, les bords semblent correspondre au seuil maximal innondable', 'natural': 'water', 'water': 'river'}
+length ratio: 35.77%
+duration ratio: 36.08%
+
+3769433
+relations: None
+Île Verte {'landuse': 'residential', 'type': 'multipolygon', 'name': 'Île Verte', 'quarter': 'suburb'}
+length ratio: 51.89%
+duration ratio: 51.71%
+
+../notebooks/gpx/37695677-1098442967.gpx
+Overpass response length: 31
+13 valid tags: ['k:landuse/v:residential', 'k:natural/v:wood', 'k:barrier/v:wall', 'k:sport/v:multi', 'k:landuse/v:allotments', 'k:landuse/v:grass', 'k:natural/v:water', 'k:sport/v:soccer', 'k:landuse/v:cemetery', 'k:landuse/v:forest', 'k:leisure/v:park', 'k:leisure/v:pitch', 'k:leisure/v:stadium']
+corresponding to the LGD concepts: 
+['LanduseResidential', 'NaturalWood', 'Wall', 'Multi', 'Allotments', 'Grass', 'NaturalWater', 'Soccer', 'LanduseCemetery', 'LanduseForest', 'Park', 'Pitch', 'Stadium']
+
+278498
+relations: None
+L'Isère {'boat': 'no', 'type': 'multipolygon', 'name': "L'Isère", 'note': 'taggé en mode « new tagging » cf wiki', 'source': 'cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2009', 'comment': 'Provenance du cadastre, les bords semblent correspondre au seuil maximal innondable', 'natural': 'water', 'water': 'river'}
+length ratio: 37.91%
+duration ratio: 39.67%
+
+3769433
+relations: None
+Île Verte {'landuse': 'residential', 'type': 'multipolygon', 'name': 'Île Verte', 'quarter': 'suburb'}
+length ratio: 49.55%
+duration ratio: 56.37%
+
+4014810
+relations: []
+Parc Paul Mistral {'leisure': 'park', 'name': 'Parc Paul Mistral'}
+length ratio: 15.98%
+duration ratio: 30.80%
+
+381453125
+relations: []
+Exposition Bajatière {'landuse': 'residential', 'name': 'Exposition Bajatière', 'quarter': 'suburb', 'source': 'https://fr.wikipedia.org/wiki/Exposition-Bajati%C3%A8re'}
+length ratio: 16.42%
+duration ratio: 31.67%
+
+../notebooks/gpx/37695677-1017891425.gpx
+Overpass response length: 5
+3 valid tags: ['k:landuse/v:residential', 'k:natural/v:wood', 'k:leisure/v:park']
+corresponding to the LGD concepts: 
+['LanduseResidential', 'NaturalWood', 'Park']
+
+3769433
+relations: None
+Île Verte {'landuse': 'residential', 'type': 'multipolygon', 'name': 'Île Verte', 'quarter': 'suburb'}
+length ratio: 78.31%
+duration ratio: 75.17%
+
+28340980
+relations: []
+Parc des Berges de l'Isère {'leisure': 'park', 'name': "Parc des Berges de l'Isère", 'alt_name': 'Parc Valmy', 'old_name': 'Échangeur des Sablons'}
+length ratio: 22.98%
+duration ratio: 26.10%
+
+301628088
+relations: []
+Mutualité Préfecture {'landuse': 'residential', 'name': 'Mutualité Préfecture', 'quarter': 'suburb'}
+length ratio: 16.49%
+duration ratio: 20.02%
+
+../notebooks/gpx/37695677-1028279053.gpx
+Overpass response length: 16
+11 valid tags: ['k:landuse/v:residential', 'k:natural/v:wood', 'k:leisure/v:playground', 'k:leisure/v:track', 'k:leisure/v:sports_centre', 'k:natural/v:water', 'k:sport/v:athletics', 'k:sport/v:soccer', 'k:natural/v:beach', 'k:leisure/v:park', 'k:leisure/v:pitch']
+corresponding to the LGD concepts: 
+['LanduseResidential', 'NaturalWood', 'Playground', 'Track', 'SportsCentre', 'NaturalWater', 'Athletics', 'Soccer', 'NaturalBeach', 'Park', 'Pitch']
+
+27875221
+relations: []
+None {'leisure': 'pitch', 'surface': 'sand', 'sport': 'soccer'}
+length ratio: 10.46%
+duration ratio: 42.90%
+
+28539754
+relations: []
+Parc des Champs Elysées {'leisure': 'park', 'name': 'Parc des Champs Elysées', 'alt_name': 'Parc Bachelard'}
+length ratio: 52.68%
+duration ratio: 36.20%
+
+225042522
+relations: []
+Stade Bachelard {'leisure': 'sports_centre', 'name': 'Stade Bachelard'}
+length ratio: 32.81%
+duration ratio: 58.58%
+
+458535021
+relations: []
+Rondeau Libération {'landuse': 'residential', 'name': 'Rondeau Libération'}
+length ratio: 100.00%
+duration ratio: 100.00%
+
+../notebooks/gpx/37695677-1019306757.gpx
+Overpass response length: 88
+13 valid tags: ['k:landuse/v:residential', 'k:leisure/v:playground', 'k:sport/v:multi', 'k:landuse/v:grass', 'k:leisure/v:track', 'k:leisure/v:sports_centre', 'k:sport/v:soccer', 'k:landuse/v:forest', 'k:leisure/v:park', 'k:leisure/v:pitch', 'k:leisure/v:miniature_golf', 'k:leisure/v:stadium', 'k:landuse/v:basin']
+corresponding to the LGD concepts: 
+['LanduseResidential', 'Playground', 'Multi', 'Grass', 'Track', 'SportsCentre', 'Soccer', 'LanduseForest', 'Park', 'Pitch', 'MiniatureGolf', 'Stadium', 'Basin']
+
+4014810
+relations: []
+Parc Paul Mistral {'leisure': 'park', 'name': 'Parc Paul Mistral'}
+length ratio: 81.10%
+duration ratio: 80.27%
+
+381453125
+relations: []
+Exposition Bajatière {'landuse': 'residential', 'name': 'Exposition Bajatière', 'quarter': 'suburb', 'source': 'https://fr.wikipedia.org/wiki/Exposition-Bajati%C3%A8re'}
+length ratio: 100.00%
+duration ratio: 100.00%
+
+../notebooks/gpx/37695677-960040871.gpx
+Overpass response length: 14
+11 valid tags: ['k:landuse/v:residential', 'k:natural/v:wood', 'k:barrier/v:wall', 'k:sport/v:multi', 'k:landuse/v:grass', 'k:natural/v:water', 'k:sport/v:soccer', 'k:landuse/v:cemetery', 'k:leisure/v:park', 'k:leisure/v:pitch', 'k:leisure/v:stadium']
+corresponding to the LGD concepts: 
+['LanduseResidential', 'NaturalWood', 'Wall', 'Multi', 'Grass', 'NaturalWater', 'Soccer', 'LanduseCemetery', 'Park', 'Pitch', 'Stadium']
+
+278498
+relations: None
+L'Isère {'boat': 'no', 'type': 'multipolygon', 'name': "L'Isère", 'note': 'taggé en mode « new tagging » cf wiki', 'source': 'cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2009', 'comment': 'Provenance du cadastre, les bords semblent correspondre au seuil maximal innondable', 'natural': 'water', 'water': 'river'}
+length ratio: 35.85%
+duration ratio: 34.33%
+
+3769433
+relations: None
+Île Verte {'landuse': 'residential', 'type': 'multipolygon', 'name': 'Île Verte', 'quarter': 'suburb'}
+length ratio: 52.42%
+duration ratio: 46.68%
+
+../notebooks/gpx/37695677-1007756961.gpx
+Overpass response length: 82
+12 valid tags: ['k:leisure/v:playground', 'k:sport/v:multi', 'k:landuse/v:grass', 'k:leisure/v:track', 'k:leisure/v:sports_centre', 'k:sport/v:soccer', 'k:landuse/v:forest', 'k:leisure/v:park', 'k:leisure/v:pitch', 'k:leisure/v:miniature_golf', 'k:leisure/v:stadium', 'k:landuse/v:basin']
+corresponding to the LGD concepts: 
+['Playground', 'Multi', 'Grass', 'Track', 'SportsCentre', 'Soccer', 'LanduseForest', 'Park', 'Pitch', 'MiniatureGolf', 'Stadium', 'Basin']
+
+4014810
+relations: []
+Parc Paul Mistral {'leisure': 'park', 'name': 'Parc Paul Mistral'}
+length ratio: 74.92%
+duration ratio: 74.11%
+
+../notebooks/gpx/37695677-931495673.gpx
+Overpass response length: 55
+9 valid tags: ['k:landuse/v:residential', 'k:place/v:suburb', 'k:leisure/v:playground', 'k:landuse/v:railway', 'k:landuse/v:grass', 'k:leisure/v:sports_centre', 'k:natural/v:water', 'k:leisure/v:park', 'k:landuse/v:village_green']
+corresponding to the LGD concepts: 
+['LanduseResidential', 'Suburb', 'Playground', 'Railway', 'Grass', 'SportsCentre', 'NaturalWater', 'Park', 'VillageGreen']
+
+382416183
+relations: []
+Capuche {'landuse': 'residential', 'name': 'Capuche', 'quarter': 'suburb'}
+length ratio: 30.24%
+duration ratio: 31.55%
+
+382419276
+relations: []
+Foch Aigle Libération {'landuse': 'residential', 'name': 'Foch Aigle Libération', 'quarter': 'suburb'}
+length ratio: 37.29%
+duration ratio: 35.71%
+
+382426174
+relations: []
+Championnet {'landuse': 'residential', 'name': 'Championnet', 'quarter': 'suburb'}
+length ratio: 47.35%
+duration ratio: 49.15%
+
+../notebooks/gpx/37695677-945186007.gpx
+Overpass response length: 24
+11 valid tags: ['k:landuse/v:residential', 'k:natural/v:wood', 'k:sport/v:multi', 'k:landuse/v:grass', 'k:natural/v:water', 'k:sport/v:soccer', 'k:landuse/v:forest', 'k:leisure/v:park', 'k:leisure/v:pitch', 'k:leisure/v:stadium', 'k:landuse/v:basin']
+corresponding to the LGD concepts: 
+['LanduseResidential', 'NaturalWood', 'Multi', 'Grass', 'NaturalWater', 'Soccer', 'LanduseForest', 'Park', 'Pitch', 'Stadium', 'Basin']
+
+278498
+relations: None
+L'Isère {'boat': 'no', 'type': 'multipolygon', 'name': "L'Isère", 'note': 'taggé en mode « new tagging » cf wiki', 'source': 'cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2009', 'comment': 'Provenance du cadastre, les bords semblent correspondre au seuil maximal innondable', 'natural': 'water', 'water': 'river'}
+length ratio: 48.90%
+duration ratio: 49.19%
+
+3769433
+relations: None
+Île Verte {'landuse': 'residential', 'type': 'multipolygon', 'name': 'Île Verte', 'quarter': 'suburb'}
+length ratio: 53.00%
+duration ratio: 53.30%
+
+../notebooks/gpx/37695677-937887381.gpx
+Overpass response length: 35
+14 valid tags: ['k:leisure/v:common', 'k:landuse/v:residential', 'k:natural/v:wood', 'k:barrier/v:wall', 'k:sport/v:multi', 'k:landuse/v:grass', 'k:natural/v:water', 'k:sport/v:soccer', 'k:landuse/v:cemetery', 'k:landuse/v:forest', 'k:leisure/v:park', 'k:leisure/v:pitch', 'k:leisure/v:stadium', 'k:landuse/v:basin']
+corresponding to the LGD concepts: 
+['Common', 'LanduseResidential', 'NaturalWood', 'Wall', 'Multi', 'Grass', 'NaturalWater', 'Soccer', 'LanduseCemetery', 'LanduseForest', 'Park', 'Pitch', 'Stadium', 'Basin']
+
+278498
+relations: None
+L'Isère {'boat': 'no', 'type': 'multipolygon', 'name': "L'Isère", 'note': 'taggé en mode « new tagging » cf wiki', 'source': 'cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2009', 'comment': 'Provenance du cadastre, les bords semblent correspondre au seuil maximal innondable', 'natural': 'water', 'water': 'river'}
+length ratio: 37.93%
+duration ratio: 38.01%
+
+3769433
+relations: None
+Île Verte {'landuse': 'residential', 'type': 'multipolygon', 'name': 'Île Verte', 'quarter': 'suburb'}
+length ratio: 48.79%
+duration ratio: 48.27%
+
+../notebooks/gpx/37695677-958662003.gpx
+Overpass response length: 27
+9 valid tags: ['k:landuse/v:residential', 'k:landuse/v:grass', 'k:leisure/v:track', 'k:leisure/v:sports_centre', 'k:sport/v:soccer', 'k:landuse/v:forest', 'k:leisure/v:park', 'k:leisure/v:pitch', 'k:leisure/v:stadium']
+corresponding to the LGD concepts: 
+['LanduseResidential', 'Grass', 'Track', 'SportsCentre', 'Soccer', 'LanduseForest', 'Park', 'Pitch', 'Stadium']
+
+3769433
+relations: None
+Île Verte {'landuse': 'residential', 'type': 'multipolygon', 'name': 'Île Verte', 'quarter': 'suburb'}
+length ratio: 52.68%
+duration ratio: 49.11%
+
+4014810
+relations: []
+Parc Paul Mistral {'leisure': 'park', 'name': 'Parc Paul Mistral'}
+length ratio: 22.32%
+duration ratio: 25.22%
+
+28340980
+relations: []
+Parc des Berges de l'Isère {'leisure': 'park', 'name': "Parc des Berges de l'Isère", 'alt_name': 'Parc Valmy', 'old_name': 'Échangeur des Sablons'}
+length ratio: 24.30%
+duration ratio: 25.00%
+
+381453125
+relations: []
+Exposition Bajatière {'landuse': 'residential', 'name': 'Exposition Bajatière', 'quarter': 'suburb', 'source': 'https://fr.wikipedia.org/wiki/Exposition-Bajati%C3%A8re'}
+length ratio: 25.75%
+duration ratio: 28.35%
+
+Process finished with exit code 0
